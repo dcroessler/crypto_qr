@@ -4,6 +4,8 @@ A short-horizon (4-hour) cross-sectional study across 35 large-cap cryptocurrenc
 
 The Jupyter notebook (`crypto_statarb.ipynb`) is kept concise and is meant to be read top to bottom. This README explains the decisions behind it.
 
+> 📓 **[View the rendered notebook on nbviewer](https://nbviewer.org/github/dcroessler/crypto_qr/blob/main/crypto_statarb.ipynb)** — GitHub's in-page notebook preview is occasionally flaky on figure-heavy notebooks; nbviewer always renders it.
+
 ## Final Result
 
 A single fast signal does not survive costs. A diversified, slow-traded book of momentum and carry, with the momentum speed and the blend weights both re-chosen each quarter from past data only, is net-positive across all three periods at every cost level:
