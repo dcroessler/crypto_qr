@@ -1,0 +1,7 @@
+# developed on Python 3.11+, pandas 3 / numpy 2
+numpy
+pandas
+pyarrow        # parquet engine for the cached data panels
+requests       # downloads price/funding data from the Binance Vision CDN
+matplotlib     # figures
+jupyter        # to run crypto_statarb.ipynb

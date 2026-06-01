@@ -1,0 +1,7 @@
+data/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+
+# internal / not for the public repo
+PLAN.md
